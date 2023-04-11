@@ -34,28 +34,11 @@ proxies:
 
 
 # Shadowsocks
-- name: "ss1"
+- name: "Los_Angeles-USA"
   type: ss
-  server: 155.138.143.45
+  server: 100.42.78.93 
   port: 64441
   cipher: aes-256-gcm
-  password: "Aa740730!"
+  password: "Zzxcvbnm"
   # udp: true
-- name: "ss2"
-  type: ss
-  server: 207.148.80.31
-  port: 64441
-  cipher: aes-256-gcm
-  password: "Aa740730!"
-- name: "ss3"
-  type: ss
-  server: 108.61.177.2
-  port: 64441
-  cipher: aes-256-gcm
-  password: "Aa740730!"
-- name: "ss4"
-  type: ss
-  server: 64.176.37.85
-  port: 64441
-  cipher: aes-256-gcm
-  password: "Aa740730!"
+
